@@ -21,6 +21,7 @@ public class Count_Number_InArray {
 	}
 		
 	}
+	//Git
 	
 	System.out.print(count);
 }
