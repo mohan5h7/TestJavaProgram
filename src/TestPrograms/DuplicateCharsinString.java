@@ -20,7 +20,7 @@ Automatically ignores duplicates
 	  
 	public static void main(String args[]) {
 		
-		String Dp = "programming";
+		String Dp = "programming language";
 		
 		Set<Character> s = new HashSet<>();
 		
