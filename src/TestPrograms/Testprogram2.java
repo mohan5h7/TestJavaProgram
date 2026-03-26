@@ -4,6 +4,29 @@ import java.util.HashSet;
 
 public class Testprogram2 {
 	
+	
+	public static void main(String args[]) {
+		
+		
+		
+		String str = "Wipro Company";
+		String[] ch = str.split(str);
+		String[] ch1 = ch;
+		System.out.println(ch1);
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+}//classs
+
+	/*
 	//find missing num
 	
 	public static void main(String args[]) {
@@ -27,14 +50,14 @@ public class Testprogram2 {
 	}
 		
 	}
+
+	
+	
+	*/
 	
 	
 	
-	
-	
-	
-	
-}//classs
+
 	/*
 	//Find the Second Largest in the arry
 	public static void main(String args[]) {

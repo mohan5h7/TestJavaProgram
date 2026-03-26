@@ -15,8 +15,8 @@ public class Printzerosideoneside {
             }
         }
 
-        for(int i = 0; i < arr.length; i++){
-            int ch = arr[i];
+        for(int j = 0; j < arr.length; j++){
+            int ch = arr[j];
 
             if(ch == 1){
                 System.out.print(ch);

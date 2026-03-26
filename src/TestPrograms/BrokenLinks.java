@@ -13,7 +13,7 @@ import java.net.URL;
 
 public class BrokenLinks {
 
-    /*public static void main(String[] args) throws Exception {
+    /*pu blic static void main(String[] args) throws Exception {
 
         WebDriver driver = new ChromeDriver();
         driver.get("https://example.com");

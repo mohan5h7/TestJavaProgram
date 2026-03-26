@@ -39,14 +39,24 @@ public class secondlargestarraynumber {
 
         System.out.println("Second Largest: " + secondLargest);
     }
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
+ *  
+ */      
+
+
+
+//  Second smallest num 
+ 
+ 
+/*
+ *  public static void main(String[] args) {
+
+        int[] arr = {10,25,5,40,30};
+
+        Arrays.sort(arr);  // [5,10,25,30,40]
+
+        int secondSmallest = arr[1];
+
+        System.out.println("Second Smallest: " + secondSmallest);
+    }
  */
+

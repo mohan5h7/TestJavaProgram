@@ -19,15 +19,20 @@ public class countofvowelandconsonant {
             char ch = words[i];
 
             if(ch=='a' || ch=='e' || ch=='i' || ch=='o' || ch=='u')
+            	
             {
+            	char che = ch;
+            	
+            	
                 vowelCount++;
+                System.out.println("Total letter = " + che);
             }
             else
             {
                 consonantCount++;
             }
         }
-
+     
         System.out.println("Total Vowels = " + vowelCount);
         System.out.println("Total Consonants = " + consonantCount);
     }
