@@ -1,7 +1,5 @@
 package TestPrograms;
 
-import java.util.HashSet;
-
 public class Testprogram2 {
 	
 	
