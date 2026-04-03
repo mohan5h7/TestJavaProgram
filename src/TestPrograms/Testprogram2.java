@@ -1,5 +1,7 @@
 package TestPrograms;
 
+import java.util.Arrays;
+
 public class Testprogram2 {
 	
 	
@@ -7,10 +9,16 @@ public class Testprogram2 {
 		
 		
 		
-		String str = "Wipro Company";
-		String[] ch = str.split(str);
-		String[] ch1 = ch;
-		System.out.println(ch1);
+		String str = "Wipro Company mnc";
+		String [] ch = str.split(" ");
+		//for(int i=0;i<ch.length;i++) { //ch[0] = Wipro //ch[1] = Company //Ch[2] = mnc
+			for(String sr : ch) {
+			
+		
+			System.out.print(sr);
+			
+			
+		}
 		
 		
 		

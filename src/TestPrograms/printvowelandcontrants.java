@@ -23,5 +23,6 @@ public class printvowelandcontrants {
                 System.out.println(ch + " is consonant");
             }
         }
-    }
+
+	}
 }
